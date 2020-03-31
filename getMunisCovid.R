@@ -136,5 +136,5 @@ munis <- munis %>%
 
 rm(tots, codis, body1, body2, munis1, munis2, url)
 
-write.csv2(munis, 'munisCovid.csv', row.names = FALSE)
+write.csv2(munis, 'MunisCovid.csv', row.names = FALSE)
 
