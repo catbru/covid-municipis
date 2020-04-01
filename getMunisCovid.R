@@ -13,6 +13,11 @@ url <- "https://wabi-north-europe-api.analysis.windows.net/public/reports/queryd
 body1 = "{\"version\":\"1.0.0\",\"queries\":[{\"Query\":{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"M_Mesures_TEST\"},{\"Name\":\"d\",\"Entity\":\"dPersona\"}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"ComarcaNom\"},\"Name\":\"dPersona.ComarcaNom\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Municipi\"},\"Name\":\"dPersona.Municipi\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Negatius\"},\"Name\":\"M_Mesures_TEST.Resultats Negatius\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Positius\"},\"Name\":\"M_Mesures_TEST.Resultats Positius\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0],\"Subtotal\":1},{\"Projections\":[1,2,3],\"Subtotal\":1}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{\"Count\":500}}},\"Version\":1}}}]},\"QueryId\":\"\",\"ApplicationContext\":{\"DatasetId\":\"cb0a4136-7a64-47f1-8270-be5320ef5bf3\",\"Sources\":[{\"ReportId\":\"34dedced-6c95-4e56-83e5-26c024f7927b\"}]}}],\"cancelQueries\":[],\"modelId\":10535817}"
 munis1 <- POST(url, body = body1, encode = "json") %>% content(as = 'text')
 
+if (munis1 == "") {
+  write.csv2('ERROR CRIDA 1', 'MunisCovid.csv', row.names = FALSE)
+  quit(save = 'no')
+}
+
 names1 <- munis1 %>% 
   str_match_all('"D0":(.*?)]') %>% # agafem la llista de municipis
   unlist() %>% 
@@ -70,9 +75,13 @@ ultimaComarca <- munis1 %>%
   .[length(.)]
 
 
-body2 <- "{\"version\":\"1.0.0\",\"queries\":[{\"Query\":{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"M_Mesures_TEST\"},{\"Name\":\"d\",\"Entity\":\"dPersona\"}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"ComarcaNom\"},\"Name\":\"dPersona.ComarcaNom\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Municipi\"},\"Name\":\"dPersona.Municipi\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Negatius\"},\"Name\":\"M_Mesures_TEST.Resultats Negatius\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Positius\"},\"Name\":\"M_Mesures_TEST.Resultats Positius\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0],\"Subtotal\":1},{\"Projections\":[1,2,3],\"Subtotal\":1}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{\"Count\":500,\"RestartTokens\":[[false],[\"'Pla d''Urgell'\"],[false],[\"'Castellnou de Seana'\"]]}}},\"Version\":1}}}]},\"QueryId\":\"\"}],\"cancelQueries\":[],\"modelId\":10535817}"
 body2 <- paste0("{\"version\":\"1.0.0\",\"queries\":[{\"Query\":{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"M_Mesures_TEST\"},{\"Name\":\"d\",\"Entity\":\"dPersona\"}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"ComarcaNom\"},\"Name\":\"dPersona.ComarcaNom\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Municipi\"},\"Name\":\"dPersona.Municipi\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Negatius\"},\"Name\":\"M_Mesures_TEST.Resultats Negatius\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Positius\"},\"Name\":\"M_Mesures_TEST.Resultats Positius\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0],\"Subtotal\":1},{\"Projections\":[1,2,3],\"Subtotal\":1}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{\"Count\":500,\"RestartTokens\":[[false],[\"'",str_replace_all(ultimaComarca, "'","''"),"'\"],[false],[\"'",str_replace_all(ultimMuni, "'","''"),"'\"]]}}},\"Version\":1}}}]},\"QueryId\":\"\"}],\"cancelQueries\":[],\"modelId\":10535817}")
 munis2 <- POST(url, body = body2, encode = "json") %>% content(as = 'text')
+
+if (munis2 == "") {
+  write.csv2('ERROR CRIDA 2', 'MunisCovid.csv', row.names = FALSE)
+  quit(save = 'no')
+}
 
 names2 <- munis2 %>% 
   str_match_all('"D0":(.*?)]') %>% # agafem la llista de municipis
@@ -154,5 +163,5 @@ munis <- munis %>%
 
 rm(tots, codis, body1, body2, munis1, munis2, url)
 
-write.csv2(munis, 'munisCovid.csv', row.names = FALSE)
+write.csv2(munis, 'MunisCovid.csv', row.names = FALSE)
 
