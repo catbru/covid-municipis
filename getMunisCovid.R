@@ -10,7 +10,7 @@ url <- "https://wabi-north-europe-api.analysis.windows.net/public/reports/queryd
 
 # Truquem el cos de la crida Ajax per tenir-ho tot en una sola crida:
 body <- "{\"version\":\"1.0.0\",\"queries\":[{\"Query\":{\"Commands\":[{\"SemanticQueryDataShapeCommand\":{\"Query\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"M_Mesures_TEST\"},{\"Name\":\"d\",\"Entity\":\"dPersona\"}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"ComarcaNom\"},\"Name\":\"dPersona.ComarcaNom\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Municipi\"},\"Name\":\"dPersona.Municipi\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Negatius\"},\"Name\":\"M_Mesures_TEST.Resultats Negatius\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Resultats Positius\"},\"Name\":\"M_Mesures_TEST.Resultats Positius\"}]},\"Binding\":{\"Primary\":{\"Groupings\":[{\"Projections\":[0],\"Subtotal\":1},{\"Projections\":[1,2,3],\"Subtotal\":1}]},\"DataReduction\":{\"DataVolume\":3,\"Primary\":{\"Window\":{\"Count\":30000}}},\"Version\":1}}}]},\"QueryId\":\"\",\"ApplicationContext\":{\"DatasetId\":\"cb0a4136-7a64-47f1-8270-be5320ef5bf3\",\"Sources\":[{\"ReportId\":\"34dedced-6c95-4e56-83e5-26c024f7927b\"}]}}],\"cancelQueries\":[],\"modelId\":10535817}"
-munis <- POST(url, body = body, encode = "json", httr::add_headers(`X-PowerBI-ResourceKey` = "e9257068-548b-4e84-9597-737da35a8921")) %>% content(as = 'text')
+munis <- POST(url, body = body, encode = "json", httr::add_headers(`X-PowerBI-ResourceKey` = "e9257068-548b-4e84-9597-737da35a8921", `Content-Type` = "application/json")) %>% content(as = 'text')
 
 
 if (munis == "") {
