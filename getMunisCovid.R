@@ -73,6 +73,9 @@ munis$nom_lower[munis$nom_lower == "brunyola"] <-  "brunyola i sant martí sapre
 munis$nom_lower[munis$nom_lower == "fogars de tordera"] <-  "fogars de la selva"
 munis$nom_lower[munis$nom_lower == "vespella"] <-  "vespella de gaià"
 munis$nom_lower[munis$nom_lower == "santa perpétua de mogoda"] <-  "santa perpètua de mogoda"
+munis$nom_lower[munis$nom_lower == "sant quirze  safaja"] <-  "sant quirze safaja"
+ 
+
 
 # hi afegim els codis de municipi i comarca de Idescat
 codis <- read_html('https://www.idescat.cat/codis/?id=50&n=9') %>% 
