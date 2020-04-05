@@ -89,12 +89,12 @@
 250411;"Barbens";27;"Pla d'Urgell";5;1
 430213;"Barberà de la Conca";16;"Conca de Barberà";0;0
 82520;"Barberà del Vallès";40;"Vallès Occidental";130;123
-80193;"Barcelona";13;"Barcelonès";8156;6416
+80193;"Barcelona";13;"Barcelonès";8154;6416
 250426;"Baronia de Rialb, la";23;"Noguera";0;0
 250447;"Bassella";4;"Alt Urgell";1;1
 430228;"Batea";37;"Terra Alta";4;0
 250450;"Bausen";39;"Aran";0;0
-80207;"Begues";11;"Baix Llobregat";19;21
+80207;"Begues";11;"Baix Llobregat";20;21
 170139;"Begur";10;"Baix Empordà";9;2
 250463;"Belianes";38;"Urgell";2;1
 250485;"Bell-lloc d'Urgell";27;"Pla d'Urgell";7;10
@@ -202,7 +202,7 @@
 80543;"Castellbisbal";40;"Vallès Occidental";42;34
 80556;"Castellcir";42;"Moianès";1;0
 250674;"Castelldans";18;"Garrigues";3;0
-80569;"Castelldefels";11;"Baix Llobregat";243;146
+80569;"Castelldefels";11;"Baix Llobregat";242;146
 80581;"Castellet i la Gornal";3;"Alt Penedès";5;2
 80608;"Castellfollit de Riubregós";6;"Anoia";0;2
 170464;"Castellfollit de la Roca";19;"Garrotxa";1;1
@@ -698,7 +698,7 @@
 171693;"Sant Julià de Ramis";20;"Gironès";12;13
 82205;"Sant Julià de Vilatorta";24;"Osona";14;24
 179032;"Sant Julià del Llor i Bonmatí";34;"Selva";4;1
-82212;"Sant Just Desvern";11;"Baix Llobregat";67;46
+82212;"Sant Just Desvern";11;"Baix Llobregat";66;46
 82233;"Sant Llorenç Savall";40;"Vallès Occidental";36;26
 82227;"Sant Llorenç d'Hortons";3;"Alt Penedès";9;9
 251930;"Sant Llorenç de Morunys";35;"Solsonès";0;0
@@ -754,7 +754,7 @@
 82567;"Santa Maria de Martorelles";41;"Vallès Oriental";4;1
 82554;"Santa Maria de Merlès";14;"Berguedà";0;0
 82573;"Santa Maria de Miralles";6;"Anoia";1;1
-82592;"Santa Maria de Palautordera";41;"Vallès Oriental";31;12
+82592;"Santa Maria de Palautordera";41;"Vallès Oriental";32;12
 431401;"Santa Oliva";12;"Baix Penedès";2;6
 171848;"Santa Pau";19;"Garrotxa";2;1
 82606;"Santa Perpètua de Mogoda";40;"Vallès Occidental";97;86
@@ -832,7 +832,7 @@
 252304;"Torregrossa";27;"Pla d'Urgell";3;5
 252311;"Torrelameu";23;"Noguera";1;1
 82877;"Torrelavit";3;"Alt Penedès";6;4
-82883;"Torrelles de Foix";3;"Alt Penedès";1;2
+82883;"Torrelles de Foix";3;"Alt Penedès";2;2
 82896;"Torrelles de Llobregat";11;"Baix Llobregat";23;9
 171978;"Torrent";10;"Baix Empordà";1;1
 252326;"Torres de Segre";33;"Segrià";24;5
@@ -840,7 +840,7 @@
 171997;"Torroella de Montgrí";10;"Baix Empordà";22;4
 431541;"Torroja del Priorat";29;"Priorat";0;0
 172001;"Tortellà";19;"Garrotxa";2;2
-431554;"Tortosa";9;"Baix Ebre";141;41
+431554;"Tortosa";9;"Baix Ebre";142;41
 252234;"Torà";32;"Segarra";6;0
 172018;"Toses";31;"Ripollès";0;0
 172023;"Tossa de Mar";34;"Selva";8;2
