@@ -50,7 +50,7 @@
 430136;"Ametlla de Mar, l'";9;"Baix Ebre";14;1
 80057;"Ametlla del Vallès, l'";41;"Vallès Oriental";27;12
 439060;"Ampolla, l'";9;"Baix Ebre";4;4
-430141;"Amposta";22;"Montsià";41;18
+430141;"Amposta";22;"Montsià";42;18
 250273;"Anglesola";38;"Urgell";3;1
 170084;"Anglès";34;"Selva";14;9
 250292;"Arbeca";18;"Garrigues";3;2
@@ -77,7 +77,7 @@
 80137;"Avinyonet del Penedès";3;"Alt Penedès";6;6
 80121;"Avinyó";7;"Bages";8;1
 80116;"Avià";14;"Berguedà";1;8
-80155;"Badalona";13;"Barcelonès";1140;974
+80155;"Badalona";13;"Barcelonès";1141;974
 89045;"Badia del Vallès";40;"Vallès Occidental";48;48
 80168;"Bagà";14;"Berguedà";15;14
 250390;"Baix Pallars";26;"Pallars Sobirà";0;0
@@ -89,7 +89,7 @@
 250411;"Barbens";27;"Pla d'Urgell";5;1
 430213;"Barberà de la Conca";16;"Conca de Barberà";0;0
 82520;"Barberà del Vallès";40;"Vallès Occidental";130;123
-80193;"Barcelona";13;"Barcelonès";8148;6409
+80193;"Barcelona";13;"Barcelonès";8156;6416
 250426;"Baronia de Rialb, la";23;"Noguera";0;0
 250447;"Bassella";4;"Alt Urgell";1;1
 430228;"Batea";37;"Terra Alta";4;0
@@ -338,7 +338,7 @@
 251018;"Granadella, la";18;"Garrigues";3;2
 80958;"Granera";42;"Moianès";0;0
 251023;"Granja d'Escarp, la";33;"Segrià";2;0
-80961;"Granollers";41;"Vallès Oriental";240;167
+80961;"Granollers";41;"Vallès Oriental";239;167
 251039;"Granyanella";32;"Segarra";0;0
 251044;"Granyena de Segarra";32;"Segarra";0;1
 251057;"Granyena de les Garrigues";18;"Garrigues";0;0
@@ -439,7 +439,7 @@
 430846;"Miravet";30;"Ribera d'Ebre";1;0
 81385;"Moià";42;"Moianès";16;13
 430859;"Molar, el";29;"Priorat";0;0
-81234;"Molins de Rei";11;"Baix Llobregat";70;29
+81234;"Molins de Rei";11;"Baix Llobregat";71;29
 251370;"Mollerussa";27;"Pla d'Urgell";22;23
 171061;"Mollet de Peralada";2;"Alt Empordà";0;0
 81249;"Mollet del Vallès";41;"Vallès Oriental";255;303
@@ -884,7 +884,7 @@
 252424;"Verdú";38;"Urgell";5;2
 172116;"Verges";10;"Baix Empordà";4;1
 431649;"Vespella de Gaià";36;"Tarragonès";2;0
-82981;"Vic";24;"Osona";177;200
+82981;"Vic";24;"Osona";177;201
 172137;"Vidreres";34;"Selva";23;16
 172121;"Vidrà";24;"Osona";0;0
 252430;"Vielha e Mijaran";39;"Aran";31;42
@@ -926,7 +926,7 @@
 252542;"Vilanova de la Barca";33;"Segrià";10;0
 83020;"Vilanova del Camí";6;"Anoia";106;81
 89024;"Vilanova del Vallès";41;"Vallès Oriental";32;15
-83073;"Vilanova i la Geltrú";17;"Garraf";235;141
+83073;"Vilanova i la Geltrú";17;"Garraf";236;141
 431690;"Vilaplana";8;"Baix Camp";1;3
 82140;"Vilassar de Dalt";21;"Maresme";32;20
 82191;"Vilassar de Mar";21;"Maresme";74;49
