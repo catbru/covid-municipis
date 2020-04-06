@@ -43,6 +43,7 @@ munis <- munis %>%
                str_remove_all('\\}') %>% 
                str_remove_all(']') %>% 
                str_remove_all('C:') %>% 
+               str_remove_all('Ø:') %>% 
                str_trim() %>% 
                as_tibble() %>%  # convertim a taula
                mutate(value = ifelse(str_detect(value,'R:4'),str_remove(value,'R:4'),value), # resituem valors a la columna que toca
