@@ -17,13 +17,13 @@
 430022;"Albinyana";12;"Baix Penedès";5;7
 430038;"Albiol, l'";8;"Baix Camp";3;0
 170046;"Albons";10;"Baix Empordà";1;1
-430043;"Alcanar";22;"Montsià";17;3
+430043;"Alcanar";22;"Montsià";18;3
 250100;"Alcanó";33;"Segrià";0;1
 250117;"Alcarràs";33;"Segrià";39;14
 250122;"Alcoletge";33;"Segrià";8;7
 430056;"Alcover";1;"Alt Camp";0;1
 430056;"Alcover";1;"Alt Camp";10;1
-439044;"Aldea, l'";9;"Baix Ebre";8;1
+439044;"Aldea, l'";9;"Baix Ebre";9;1
 430069;"Aldover";9;"Baix Ebre";2;1
 430075;"Aleixar, l'";8;"Baix Camp";3;4
 80039;"Alella";21;"Maresme";45;34
@@ -48,18 +48,18 @@
 250220;"Alòs de Balaguer";23;"Noguera";1;0
 170078;"Amer";34;"Selva";5;4
 430136;"Ametlla de Mar, l'";9;"Baix Ebre";14;1
-80057;"Ametlla del Vallès, l'";41;"Vallès Oriental";29;13
+80057;"Ametlla del Vallès, l'";41;"Vallès Oriental";29;14
 439060;"Ampolla, l'";9;"Baix Ebre";4;4
-430141;"Amposta";22;"Montsià";44;18
+430141;"Amposta";22;"Montsià";45;18
 250273;"Anglesola";38;"Urgell";3;1
 170084;"Anglès";34;"Selva";14;9
 250292;"Arbeca";18;"Garrigues";3;2
 430154;"Arbolí";8;"Baix Camp";0;1
-430167;"Arboç, l'";12;"Baix Penedès";3;6
-170097;"Arbúcies";34;"Selva";24;7
+430167;"Arboç, l'";12;"Baix Penedès";3;7
+170097;"Arbúcies";34;"Selva";30;7
 80060;"Arenys de Mar";21;"Maresme";67;34
 80076;"Arenys de Munt";21;"Maresme";39;20
-170101;"Argelaguer";19;"Garrotxa";0;0
+170101;"Argelaguer";19;"Garrotxa";1;0
 430173;"Argentera, l'";8;"Baix Camp";0;0
 80095;"Argentona";21;"Maresme";36;38
 80082;"Argençola";6;"Anoia";3;0
@@ -70,7 +70,7 @@
 250334;"Artesa de Lleida";33;"Segrià";4;6
 250349;"Artesa de Segre";23;"Noguera";5;2
 80109;"Artés";7;"Bages";14;12
-430192;"Ascó";30;"Ribera d'Ebre";3;1
+430192;"Ascó";30;"Ribera d'Ebre";4;1
 250365;"Aspa";33;"Segrià";0;0
 250371;"Avellanes i Santa Linya, les";23;"Noguera";1;1
 170123;"Avinyonet de Puigventós";2;"Alt Empordà";7;4
@@ -78,21 +78,21 @@
 80121;"Avinyó";7;"Bages";8;1
 80116;"Avià";14;"Berguedà";1;8
 80155;"Badalona";13;"Barcelonès";1209;1011
-89045;"Badia del Vallès";40;"Vallès Occidental";53;50
+89045;"Badia del Vallès";40;"Vallès Occidental";54;50
 80168;"Bagà";14;"Berguedà";15;14
 250390;"Baix Pallars";26;"Pallars Sobirà";0;0
 250404;"Balaguer";23;"Noguera";65;81
 80174;"Balenyà";24;"Osona";19;40
 80180;"Balsareny";7;"Bages";7;5
-430206;"Banyeres del Penedès";12;"Baix Penedès";5;5
-170157;"Banyoles";28;"Pla de l'Estany";68;58
+430206;"Banyeres del Penedès";12;"Baix Penedès";5;6
+170157;"Banyoles";28;"Pla de l'Estany";71;58
 250411;"Barbens";27;"Pla d'Urgell";7;2
 430213;"Barberà de la Conca";16;"Conca de Barberà";0;0
-82520;"Barberà del Vallès";40;"Vallès Occidental";133;135
-80193;"Barcelona";13;"Barcelonès";8484;6646
+82520;"Barberà del Vallès";40;"Vallès Occidental";135;137
+80193;"Barcelona";13;"Barcelonès";8483;6655
 250426;"Baronia de Rialb, la";23;"Noguera";0;1
 250447;"Bassella";4;"Alt Urgell";1;1
-430228;"Batea";37;"Terra Alta";4;0
+430228;"Batea";37;"Terra Alta";5;0
 250450;"Bausen";39;"Aran";0;0
 80207;"Begues";11;"Baix Llobregat";22;21
 170139;"Begur";10;"Baix Empordà";9;2
@@ -105,24 +105,24 @@
 430234;"Bellmunt del Priorat";29;"Priorat";4;0
 80214;"Bellprat";6;"Anoia";0;0
 250501;"Bellpuig";38;"Urgell";11;3
-430249;"Bellvei";12;"Baix Penedès";3;2
+430249;"Bellvei";12;"Baix Penedès";3;3
 250518;"Bellver de Cerdanya";15;"Cerdanya";2;3
 250523;"Bellvís";27;"Pla d'Urgell";4;2
 250539;"Benavent de Segrià";33;"Segrià";7;4
-430252;"Benifallet";9;"Baix Ebre";2;1
+430252;"Benifallet";9;"Baix Ebre";3;1
 430265;"Benissanet";30;"Ribera d'Ebre";3;0
-80229;"Berga";14;"Berguedà";40;62
-170195;"Besalú";19;"Garrotxa";8;6
-170209;"Bescanó";20;"Gironès";16;16
+80229;"Berga";14;"Berguedà";41;63
+170195;"Besalú";19;"Garrotxa";9;6
+170209;"Bescanó";20;"Gironès";17;16
 170216;"Beuda";19;"Garrotxa";0;0
 80235;"Bigues i Riells";41;"Vallès Oriental";34;19
 250557;"Biosca";32;"Segarra";2;0
 170221;"Bisbal d'Empordà, la";10;"Baix Empordà";36;7
 430271;"Bisbal de Falset, la";29;"Priorat";0;0
-430287;"Bisbal del Penedès, la";12;"Baix Penedès";2;7
+430287;"Bisbal del Penedès, la";12;"Baix Penedès";2;8
 172348;"Biure";2;"Alt Empordà";1;0
 430290;"Blancafort";16;"Conca de Barberà";0;0
-170237;"Blanes";34;"Selva";196;52
+170237;"Blanes";34;"Selva";199;53
 170293;"Boadella i les Escaules";2;"Alt Empordà";0;0
 170242;"Bolvir";15;"Cerdanya";0;0
 430304;"Bonastre";12;"Baix Penedès";0;0
@@ -136,7 +136,7 @@
 430332;"Botarell";8;"Baix Camp";3;1
 250560;"Bovera";18;"Garrigues";1;0
 170274;"Breda";34;"Selva";8;6
-80253;"Bruc, el";6;"Anoia";8;5
+80253;"Bruc, el";6;"Anoia";8;6
 80266;"Brull, el";24;"Osona";1;2
 170280;"Brunyola i Sant Martí Sapresa";34;"Selva";0;1
 430347;"Bràfim";1;"Alt Camp";4;1
@@ -145,7 +145,7 @@
 430350;"Cabacés";29;"Priorat";2;0
 250609;"Cabanabona";23;"Noguera";0;0
 170314;"Cabanelles";2;"Alt Empordà";1;0
-170307;"Cabanes";2;"Alt Empordà";2;0
+170307;"Cabanes";2;"Alt Empordà";4;0
 80272;"Cabanyes, les";3;"Alt Penedès";5;1
 430363;"Cabra del Camp";1;"Alt Camp";3;0
 80288;"Cabrera d'Anoia";6;"Anoia";5;4
@@ -154,19 +154,19 @@
 250616;"Cabó";4;"Alt Urgell";0;0
 170329;"Cadaqués";2;"Alt Empordà";6;5
 80312;"Calaf";6;"Anoia";14;9
-430379;"Calafell";12;"Baix Penedès";41;28
+430379;"Calafell";12;"Baix Penedès";41;31
 80348;"Calders";42;"Moianès";5;4
 80327;"Caldes d'Estrac";21;"Maresme";11;7
 170335;"Caldes de Malavella";34;"Selva";26;21
-80333;"Caldes de Montbui";41;"Vallès Oriental";59;58
+80333;"Caldes de Montbui";41;"Vallès Oriental";60;58
 80351;"Calella";21;"Maresme";34;24
 80370;"Calldetenes";24;"Osona";9;21
-80386;"Callús";7;"Bages";9;3
+80386;"Callús";7;"Bages";10;3
 80364;"Calonge de Segarra";6;"Anoia";0;1
 170340;"Calonge i Sant Antoni";10;"Baix Empordà";46;12
 250621;"Camarasa";23;"Noguera";2;7
 439039;"Camarles";9;"Baix Ebre";3;2
-430385;"Cambrils";8;"Baix Camp";95;43
+430385;"Cambrils";8;"Baix Camp";95;44
 170366;"Campdevànol";31;"Ripollès";8;6
 170372;"Campelles";31;"Ripollès";0;0
 80399;"Campins";41;"Vallès Oriental";2;2
@@ -181,8 +181,8 @@
 170412;"Cantallops";2;"Alt Empordà";0;0
 80431;"Canyelles";17;"Garraf";19;7
 430398;"Capafonts";8;"Baix Camp";0;0
-80446;"Capellades";6;"Anoia";20;38
-170427;"Capmany";2;"Alt Empordà";2;7
+80446;"Capellades";6;"Anoia";19;39
+170427;"Capmany";2;"Alt Empordà";3;7
 80459;"Capolat";14;"Berguedà";0;0
 430402;"Capçanes";29;"Priorat";1;0
 80462;"Cardedeu";41;"Vallès Oriental";65;41
@@ -193,16 +193,16 @@
 170448;"Cassà de la Selva";20;"Gironès";35;22
 259046;"Castell de Mur";25;"Pallars Jussà";0;0
 80575;"Castell de l'Areny";14;"Berguedà";0;0
-170486;"Castell-Platja d'Aro";10;"Baix Empordà";22;8
+170486;"Castell-Platja d'Aro";10;"Baix Empordà";23;8
 250642;"Castellar de la Ribera";35;"Solsonès";0;0
 80522;"Castellar de n'Hug";14;"Berguedà";1;0
 80500;"Castellar del Riu";14;"Berguedà";0;0
-80517;"Castellar del Vallès";40;"Vallès Occidental";138;102
+80517;"Castellar del Vallès";40;"Vallès Occidental";139;104
 80538;"Castellbell i el Vilar";7;"Bages";4;5
 80543;"Castellbisbal";40;"Vallès Occidental";42;34
-80556;"Castellcir";42;"Moianès";1;0
+80556;"Castellcir";42;"Moianès";1;1
 250674;"Castelldans";18;"Garrigues";4;0
-80569;"Castelldefels";11;"Baix Llobregat";258;154
+80569;"Castelldefels";11;"Baix Llobregat";258;155
 80581;"Castellet i la Gornal";3;"Alt Penedès";5;2
 80608;"Castellfollit de Riubregós";6;"Anoia";0;2
 170464;"Castellfollit de la Roca";19;"Garrotxa";1;1
@@ -221,10 +221,10 @@
 430430;"Catllar, el";36;"Tarragonès";12;3
 250714;"Cava";4;"Alt Urgell";0;0
 171899;"Cellera de Ter, la";34;"Selva";9;3
-170499;"Celrà";20;"Gironès";19;11
-80673;"Centelles";24;"Osona";31;20
+170499;"Celrà";20;"Gironès";20;11
+80673;"Centelles";24;"Osona";32;19
 82687;"Cercs";14;"Berguedà";1;5
-82665;"Cerdanyola del Vallès";40;"Vallès Occidental";257;274
+82665;"Cerdanyola del Vallès";40;"Vallès Occidental";257;276
 80689;"Cervelló";11;"Baix Llobregat";31;16
 250729;"Cervera";32;"Segarra";49;23
 170502;"Cervià de Ter";20;"Gironès";6;4
@@ -242,12 +242,12 @@
 251636;"Coma i la Pedra, la";35;"Solsonès";0;0
 251615;"Conca de Dalt";25;"Pallars Jussà";1;2
 430461;"Conesa";16;"Conca de Barberà";0;0
-430477;"Constantí";36;"Tarragonès";24;7
+430477;"Constantí";36;"Tarragonès";23;8
 80713;"Copons";6;"Anoia";4;0
 430483;"Corbera d'Ebre";37;"Terra Alta";2;0
 80728;"Corbera de Llobregat";11;"Baix Llobregat";40;44
 250788;"Corbins";33;"Segrià";3;0
-80734;"Cornellà de Llobregat";11;"Baix Llobregat";316;168
+80734;"Cornellà de Llobregat";11;"Baix Llobregat";316;169
 170561;"Cornellà del Terri";28;"Pla de l'Estany";9;5
 430496;"Cornudella de Montsant";29;"Priorat";3;2
 170577;"Corçà";10;"Baix Empordà";3;1
@@ -260,7 +260,7 @@
 80425;"Cànoves i Samalús";41;"Vallès Oriental";9;11
 170600;"Darnius";2;"Alt Empordà";2;0
 170617;"Das";15;"Cerdanya";0;0
-439018;"Deltebre";9;"Baix Ebre";27;2
+439018;"Deltebre";9;"Baix Ebre";32;2
 80752;"Dosrius";21;"Maresme";24;11
 430537;"Duesaigües";8;"Baix Camp";0;1
 170622;"Escala, l'";2;"Alt Empordà";18;9
@@ -282,11 +282,11 @@
 430555;"Falset";29;"Priorat";19;2
 170059;"Far d'Empordà, el";2;"Alt Empordà";1;2
 250899;"Farrera";26;"Pallars Sobirà";0;0
-430568;"Fatarella, la";37;"Terra Alta";1;0
+430568;"Fatarella, la";37;"Terra Alta";2;0
 430574;"Febró, la";8;"Baix Camp";0;0
 81347;"Figaró-Montmany";41;"Vallès Oriental";1;18
 430580;"Figuera, la";29;"Priorat";0;0
-170669;"Figueres";2;"Alt Empordà";182;66
+170669;"Figueres";2;"Alt Empordà";186;66
 430593;"Figuerola del Camp";1;"Alt Camp";4;0
 170675;"Flaçà";20;"Gironès";2;1
 430607;"Flix";30;"Ribera d'Ebre";14;1
@@ -296,7 +296,7 @@
 170681;"Foixà";10;"Baix Empordà";0;0
 80832;"Folgueroles";24;"Osona";9;2
 250931;"Fondarella";27;"Pla d'Urgell";5;1
-80847;"Fonollosa";7;"Bages";2;2
+80847;"Fonollosa";7;"Bages";2;3
 80850;"Font-rubí";3;"Alt Penedès";6;4
 170694;"Fontanals de Cerdanya";15;"Cerdanya";0;1
 170708;"Fontanilles";10;"Baix Empordà";0;0
@@ -328,7 +328,7 @@
 170789;"Ger";15;"Cerdanya";0;1
 259123;"Gimenells i el Pla de la Font";33;"Segrià";7;1
 430672;"Ginestar";30;"Ribera d'Ebre";3;2
-170792;"Girona";20;"Gironès";490;390
+170792;"Girona";20;"Gironès";498;390
 80924;"Gironella";14;"Berguedà";18;13
 80930;"Gisclareny";14;"Berguedà";0;0
 430688;"Godall";22;"Montsià";1;0
@@ -338,7 +338,7 @@
 251018;"Granadella, la";18;"Garrigues";4;2
 80958;"Granera";42;"Moianès";0;0
 251023;"Granja d'Escarp, la";33;"Segrià";2;0
-80961;"Granollers";41;"Vallès Oriental";246;168
+80961;"Granollers";41;"Vallès Oriental";246;169
 251039;"Granyanella";32;"Segarra";0;0
 251044;"Granyena de Segarra";32;"Segarra";0;1
 251057;"Granyena de les Garrigues";18;"Garrigues";0;0
@@ -355,7 +355,7 @@
 81000;"Gurb";24;"Osona";11;12
 251001;"Gósol";14;"Berguedà";0;0
 430712;"Horta de Sant Joan";37;"Terra Alta";1;1
-81017;"Hospitalet de Llobregat, l'";13;"Barcelonès";1114;1143
+81017;"Hospitalet de Llobregat, l'";13;"Barcelonès";1114;1146
 81629;"Hostalets de Pierola, els";6;"Anoia";22;13
 170834;"Hostalric";34;"Selva";23;8
 81022;"Igualada";6;"Anoia";612;280
@@ -394,8 +394,8 @@
 430727;"Lloar, el";29;"Priorat";0;0
 251291;"Llobera";35;"Solsonès";0;0
 430733;"Llorac";16;"Conca de Barberà";0;0
-430748;"Llorenç del Penedès";12;"Baix Penedès";3;2
-170950;"Lloret de Mar";34;"Selva";49;51
+430748;"Llorenç del Penedès";12;"Baix Penedès";3;5
+170950;"Lloret de Mar";34;"Selva";50;51
 170963;"Llosses, les";31;"Ripollès";0;0
 81094;"Lluçà";24;"Osona";2;0
 170947;"Llívia";15;"Cerdanya";0;1
@@ -406,7 +406,7 @@
 81108;"Malgrat de Mar";21;"Maresme";33;13
 81115;"Malla";24;"Osona";1;0
 81120;"Manlleu";24;"Osona";60;95
-81136;"Manresa";7;"Bages";241;177
+81136;"Manresa";7;"Bages";247;189
 430751;"Margalef";29;"Priorat";0;1
 82423;"Marganell";7;"Bages";2;0
 81141;"Martorell";11;"Baix Llobregat";113;109
@@ -451,9 +451,9 @@
 171100;"Mont-ras";10;"Baix Empordà";7;4
 430923;"Mont-roig del Camp";8;"Baix Camp";16;9
 171096;"Montagut i Oix";19;"Garrotxa";1;2
-430862;"Montblanc";16;"Conca de Barberà";16;9
+430862;"Montblanc";16;"Conca de Barberà";16;10
 430884;"Montbrió del Camp";8;"Baix Camp";7;1
-81252;"Montcada i Reixac";40;"Vallès Occidental";133;138
+81252;"Montcada i Reixac";40;"Vallès Occidental";134;138
 81304;"Montclar";14;"Berguedà";0;1
 251399;"Montellà i Martinet";15;"Cerdanya";2;0
 81311;"Montesquiu";24;"Osona";4;6
@@ -478,9 +478,9 @@
 430944;"Móra la Nova";30;"Ribera d'Ebre";8;1
 251459;"Nalec";38;"Urgell";0;1
 250254;"Naut Aran";39;"Aran";2;2
-81402;"Navarcles";7;"Bages";18;21
+81402;"Navarcles";7;"Bages";19;23
 171117;"Navata";2;"Alt Empordà";7;1
-81419;"Navàs";7;"Bages";13;18
+81419;"Navàs";7;"Bages";13;19
 251462;"Navès";35;"Solsonès";0;1
 81424;"Nou de Berguedà, la";14;"Berguedà";0;0
 430976;"Nou de Gaià, la";36;"Tarragonès";0;0
@@ -494,7 +494,7 @@
 251517;"Olius";35;"Solsonès";1;3
 81483;"Olivella";17;"Garraf";5;1
 81496;"Olost";24;"Osona";1;4
-171143;"Olot";19;"Garrotxa";105;148
+171143;"Olot";19;"Garrotxa";108;148
 251522;"Oluges, les";32;"Segarra";1;1
 81445;"Olvan";14;"Berguedà";0;0
 81458;"Olèrdola";3;"Alt Penedès";14;0
@@ -510,13 +510,13 @@
 251575;"Ossó de Sió";38;"Urgell";0;0
 81542;"Pacs del Penedès";3;"Alt Penedès";2;2
 81555;"Palafolls";21;"Maresme";10;7
-171175;"Palafrugell";10;"Baix Empordà";90;56
+171175;"Palafrugell";10;"Baix Empordà";91;56
 171181;"Palamós";10;"Baix Empordà";121;47
 251581;"Palau d'Anglesola, el";27;"Pla d'Urgell";4;3
 171194;"Palau de Santa Eulàlia";2;"Alt Empordà";0;0
 171215;"Palau-sator";10;"Baix Empordà";0;2
 171208;"Palau-saverdera";2;"Alt Empordà";6;3
-81568;"Palau-solità i Plegamans";40;"Vallès Occidental";49;39
+81568;"Palau-solità i Plegamans";40;"Vallès Occidental";50;39
 431009;"Pallaresos, els";36;"Tarragonès";20;34
 81574;"Pallejà";11;"Baix Llobregat";43;35
 430995;"Palma d'Ebre, la";30;"Ribera d'Ebre";0;1
@@ -525,7 +525,7 @@
 171241;"Pals";10;"Baix Empordà";6;0
 81580;"Papiol, el";11;"Baix Llobregat";11;6
 171254;"Pardines";31;"Ripollès";0;1
-81593;"Parets del Vallès";41;"Vallès Oriental";79;101
+81593;"Parets del Vallès";41;"Vallès Oriental";79;102
 171267;"Parlavà";10;"Baix Empordà";1;1
 431016;"Passanant i Belltall";16;"Conca de Barberà";0;0
 171289;"Pau";2;"Alt Empordà";1;0
@@ -577,7 +577,7 @@
 431153;"Pradell de la Teixeta";29;"Priorat";0;0
 431166;"Prades";8;"Baix Camp";3;0
 431172;"Prat de Comte";37;"Terra Alta";0;0
-81691;"Prat de Llobregat, el";11;"Baix Llobregat";319;384
+81691;"Prat de Llobregat, el";11;"Baix Llobregat";319;386
 431188;"Pratdip";8;"Baix Camp";2;0
 81712;"Prats de Lluçanès";24;"Osona";10;5
 81705;"Prats de Rei, els";6;"Anoia";1;1
@@ -586,7 +586,7 @@
 251771;"Preixens";23;"Noguera";0;0
 82303;"Premià de Dalt";21;"Maresme";37;24
 81727;"Premià de Mar";21;"Maresme";103;86
-171390;"Preses, les";19;"Garrotxa";4;10
+171390;"Preses, les";19;"Garrotxa";5;10
 251790;"Prullans";15;"Cerdanya";0;0
 81751;"Puig-reig";14;"Berguedà";15;8
 171411;"Puigcerdà";15;"Cerdanya";19;18
@@ -606,7 +606,7 @@
 171447;"Regencós";10;"Baix Empordà";0;1
 81799;"Rellinars";40;"Vallès Occidental";3;1
 431227;"Renau";36;"Tarragonès";0;0
-431233;"Reus";8;"Baix Camp";315;138
+431233;"Reus";8;"Baix Camp";313;142
 251832;"Rialp";26;"Pallars Sobirà";1;1
 431248;"Riba, la";1;"Alt Camp";0;0
 431251;"Riba-roja d'Ebre";30;"Ribera d'Ebre";1;0
@@ -636,20 +636,20 @@
 251898;"Rosselló";33;"Segrià";9;4
 431346;"Rourell, el";1;"Alt Camp";0;0
 81859;"Rubió";6;"Anoia";0;0
-81846;"Rubí";40;"Vallès Occidental";288;300
+81846;"Rubí";40;"Vallès Occidental";288;301
 89019;"Rupit i Pruit";24;"Osona";0;2
 171539;"Rupià";10;"Baix Empordà";1;1
-81878;"Sabadell";40;"Vallès Occidental";1224;1170
+81878;"Sabadell";40;"Vallès Occidental";1245;1176
 81884;"Sagàs";14;"Berguedà";0;0
 81901;"Saldes";14;"Berguedà";0;1
 171544;"Sales de Llierca";19;"Garrotxa";0;0
-81918;"Sallent";7;"Bages";11;20
+81918;"Sallent";7;"Bages";12;20
 431359;"Salomó";36;"Tarragonès";0;0
-439057;"Salou";36;"Tarragonès";80;28
+439057;"Salou";36;"Tarragonès";79;29
 171557;"Salt";20;"Gironès";111;95
 251902;"Salàs de Pallars";25;"Pallars Jussà";0;2
 251919;"Sanaüja";32;"Segarra";1;0
-81944;"Sant Adrià de Besòs";13;"Barcelonès";167;149
+81944;"Sant Adrià de Besòs";13;"Barcelonès";168;149
 81957;"Sant Agustí de Lluçanès";24;"Osona";0;0
 171576;"Sant Andreu Salou";20;"Gironès";1;0
 81976;"Sant Andreu de Llavaneres";21;"Maresme";46;26
@@ -657,7 +657,7 @@
 171833;"Sant Aniol de Finestres";19;"Garrotxa";0;0
 81982;"Sant Antoni de Vilamajor";41;"Vallès Oriental";32;25
 81995;"Sant Bartomeu del Grau";24;"Osona";3;1
-82009;"Sant Boi de Llobregat";11;"Baix Llobregat";342;332
+82009;"Sant Boi de Llobregat";11;"Baix Llobregat";342;334
 82016;"Sant Boi de Lluçanès";24;"Osona";4;2
 431362;"Sant Carles de la Ràpita";22;"Montsià";29;3
 82037;"Sant Cebrià de Vallalta";21;"Maresme";8;1
@@ -665,20 +665,20 @@
 171582;"Sant Climent Sescebes";2;"Alt Empordà";3;1
 82042;"Sant Climent de Llobregat";11;"Baix Llobregat";22;25
 82068;"Sant Cugat Sesgarrigues";3;"Alt Penedès";0;3
-82055;"Sant Cugat del Vallès";40;"Vallès Occidental";335;305
+82055;"Sant Cugat del Vallès";40;"Vallès Occidental";334;310
 82080;"Sant Esteve Sesrovires";11;"Baix Llobregat";49;50
-82074;"Sant Esteve de Palautordera";41;"Vallès Oriental";18;5
+82074;"Sant Esteve de Palautordera";41;"Vallès Oriental";17;6
 251961;"Sant Esteve de la Sarga";25;"Pallars Jussà";0;0
 82129;"Sant Feliu Sasserra";7;"Bages";2;0
 171595;"Sant Feliu de Buixalleu";34;"Selva";1;3
 82107;"Sant Feliu de Codines";41;"Vallès Oriental";12;11
-171609;"Sant Feliu de Guíxols";10;"Baix Empordà";65;25
+171609;"Sant Feliu de Guíxols";10;"Baix Empordà";67;25
 82114;"Sant Feliu de Llobregat";11;"Baix Llobregat";143;73
 171616;"Sant Feliu de Pallerols";19;"Garrotxa";5;1
 171621;"Sant Ferriol";19;"Garrotxa";0;1
 82093;"Sant Fost de Campsentelles";41;"Vallès Oriental";52;36
-82135;"Sant Fruitós de Bages";7;"Bages";22;17
-171637;"Sant Gregori";20;"Gironès";28;15
+82135;"Sant Fruitós de Bages";7;"Bages";23;19
+171637;"Sant Gregori";20;"Gironès";34;15
 251924;"Sant Guim de Freixenet";32;"Segarra";6;3
 251977;"Sant Guim de la Plana";32;"Segarra";0;0
 171642;"Sant Hilari Sacalm";34;"Selva";13;38
@@ -686,11 +686,11 @@
 81939;"Sant Iscle de Vallalta";21;"Maresme";3;1
 439023;"Sant Jaume d'Enveja";22;"Montsià";9;0
 82166;"Sant Jaume de Frontanyà";14;"Berguedà";0;0
-171655;"Sant Jaume de Llierca";19;"Garrotxa";2;5
+171655;"Sant Jaume de Llierca";19;"Garrotxa";4;5
 431378;"Sant Jaume dels Domenys";12;"Baix Penedès";2;2
 82172;"Sant Joan Despí";11;"Baix Llobregat";139;52
 171680;"Sant Joan de Mollet";20;"Gironès";0;1
-82188;"Sant Joan de Vilatorrada";7;"Bages";22;50
+82188;"Sant Joan de Vilatorrada";7;"Bages";24;50
 171674;"Sant Joan de les Abadesses";31;"Ripollès";13;11
 171851;"Sant Joan les Fonts";19;"Garrotxa";17;10
 171668;"Sant Jordi Desvalls";20;"Gironès";1;4
@@ -698,7 +698,7 @@
 171693;"Sant Julià de Ramis";20;"Gironès";12;13
 82205;"Sant Julià de Vilatorta";24;"Osona";15;26
 179032;"Sant Julià del Llor i Bonmatí";34;"Selva";4;1
-82212;"Sant Just Desvern";11;"Baix Llobregat";69;58
+82212;"Sant Just Desvern";11;"Baix Llobregat";69;59
 82233;"Sant Llorenç Savall";40;"Vallès Occidental";48;32
 82227;"Sant Llorenç d'Hortons";3;"Alt Penedès";10;9
 251930;"Sant Llorenç de Morunys";35;"Solsonès";0;0
@@ -708,7 +708,7 @@
 171735;"Sant Martí Vell";20;"Gironès";1;0
 82251;"Sant Martí d'Albars";24;"Osona";0;0
 82248;"Sant Martí de Centelles";24;"Osona";4;0
-171729;"Sant Martí de Llémena";20;"Gironès";4;2
+171729;"Sant Martí de Llémena";20;"Gironès";5;2
 259025;"Sant Martí de Riucorb";38;"Urgell";2;1
 82264;"Sant Martí de Tous";6;"Anoia";20;4
 82299;"Sant Mateu de Bages";7;"Bages";4;1
@@ -726,20 +726,20 @@
 82362;"Sant Quintí de Mediona";3;"Alt Penedès";8;3
 82397;"Sant Quirze Safaja";42;"Moianès";1;0
 82378;"Sant Quirze de Besora";24;"Osona";3;12
-82384;"Sant Quirze del Vallès";40;"Vallès Occidental";122;153
+82384;"Sant Quirze del Vallès";40;"Vallès Occidental";121;155
 251945;"Sant Ramon";32;"Segarra";1;1
 82401;"Sant Sadurní d'Anoia";3;"Alt Penedès";33;17
 82418;"Sant Sadurní d'Osormort";24;"Osona";0;0
-80983;"Sant Salvador de Guardiola";7;"Bages";11;5
+80983;"Sant Salvador de Guardiola";7;"Bages";11;6
 82628;"Sant Vicenç de Castellet";7;"Bages";23;13
 82649;"Sant Vicenç de Montalt";21;"Maresme";26;10
 82652;"Sant Vicenç de Torelló";24;"Osona";4;6
 82634;"Sant Vicenç dels Horts";11;"Baix Llobregat";111;66
-431384;"Santa Bàrbara";22;"Montsià";6;4
+431384;"Santa Bàrbara";22;"Montsià";7;4
 82439;"Santa Cecília de Voltregà";24;"Osona";0;0
-82444;"Santa Coloma de Cervelló";11;"Baix Llobregat";37;33
-171805;"Santa Coloma de Farners";34;"Selva";49;41
-82457;"Santa Coloma de Gramenet";13;"Barcelonès";614;552
+82444;"Santa Coloma de Cervelló";11;"Baix Llobregat";37;34
+171805;"Santa Coloma de Farners";34;"Selva";50;41
+82457;"Santa Coloma de Gramenet";13;"Barcelonès";613;553
 431397;"Santa Coloma de Queralt";16;"Conca de Barberà";16;8
 171812;"Santa Cristina d'Aro";10;"Baix Empordà";11;6
 82460;"Santa Eugènia de Berga";24;"Osona";11;7
@@ -757,9 +757,9 @@
 82592;"Santa Maria de Palautordera";41;"Vallès Oriental";33;14
 431401;"Santa Oliva";12;"Baix Penedès";2;6
 171848;"Santa Pau";19;"Garrotxa";2;1
-82606;"Santa Perpètua de Mogoda";40;"Vallès Occidental";102;88
+82606;"Santa Perpètua de Mogoda";40;"Vallès Occidental";103;88
 82613;"Santa Susanna";21;"Maresme";7;4
-81923;"Santpedor";7;"Bages";23;18
+81923;"Santpedor";7;"Bages";24;18
 431423;"Sarral";16;"Conca de Barberà";3;3
 171864;"Sarrià de Ter";20;"Gironès";20;21
 252017;"Sarroca de Bellera";25;"Pallars Jussà";0;0
@@ -772,21 +772,21 @@
 431460;"Senan";16;"Conca de Barberà";0;0
 252022;"Senterada";25;"Pallars Jussà";1;0
 250352;"Sentiu de Sió, la";23;"Noguera";3;1
-82671;"Sentmenat";40;"Vallès Occidental";37;20
-171903;"Serinyà";28;"Pla de l'Estany";9;4
+82671;"Sentmenat";40;"Vallès Occidental";38;20
+171903;"Serinyà";28;"Pla de l'Estany";10;4
 171910;"Serra de Daró";10;"Baix Empordà";0;0
 252043;"Seròs";33;"Segrià";3;2
 171925;"Setcases";31;"Ripollès";2;0
 252038;"Seu d'Urgell, la";4;"Alt Urgell";35;24
 82690;"Seva";24;"Osona";8;4
 252056;"Sidamon";27;"Pla d'Urgell";0;2
-171931;"Sils";34;"Selva";25;11
+171931;"Sils";34;"Selva";26;11
 82704;"Sitges";17;"Garraf";101;51
 170524;"Siurana";2;"Alt Empordà";2;0
 82711;"Sobremunt";24;"Osona";0;0
 252069;"Soleràs, el";18;"Garrigues";0;0
 431476;"Solivella";16;"Conca de Barberà";1;2
-252075;"Solsona";35;"Solsonès";7;3
+252075;"Solsona";35;"Solsonès";7;4
 82726;"Sora";24;"Osona";1;0
 252081;"Soriguera";26;"Pallars Sobirà";0;0
 252094;"Sort";26;"Pallars Sobirà";7;5
@@ -803,14 +803,14 @@
 252167;"Talavera";32;"Segarra";0;2
 171959;"Tallada d'Empordà, la";10;"Baix Empordà";1;0
 82785;"Taradell";24;"Osona";31;31
-431482;"Tarragona";36;"Tarragonès";575;169
+431482;"Tarragona";36;"Tarragonès";573;173
 252192;"Tarroja de Segarra";32;"Segarra";0;0
 252189;"Tarrés";18;"Garrigues";0;0
 82802;"Tavertet";24;"Osona";0;0
 82750;"Tavèrnoles";24;"Osona";1;0
 82819;"Teià";21;"Maresme";47;12
 171962;"Terrades";2;"Alt Empordà";1;6
-82798;"Terrassa";40;"Vallès Occidental";1206;933
+82798;"Terrassa";40;"Vallès Occidental";1208;935
 82824;"Tiana";21;"Maresme";49;34
 252228;"Tiurana";23;"Noguera";0;0
 431495;"Tivenys";9;"Baix Ebre";1;0
@@ -826,7 +826,7 @@
 431520;"Torre de l'Espanyol, la";30;"Ribera d'Ebre";1;1
 252332;"Torre-serona";33;"Segrià";2;0
 252265;"Torrebesses";33;"Segrià";0;0
-431536;"Torredembarra";36;"Tarragonès";15;27
+431536;"Torredembarra";36;"Tarragonès";15;28
 252287;"Torrefarrera";33;"Segrià";13;10
 259078;"Torrefeta i Florejacs";32;"Segarra";0;3
 252304;"Torregrossa";27;"Pla d'Urgell";3;5
@@ -840,7 +840,7 @@
 171997;"Torroella de Montgrí";10;"Baix Empordà";22;4
 431541;"Torroja del Priorat";29;"Priorat";0;0
 172001;"Tortellà";19;"Garrotxa";2;2
-431554;"Tortosa";9;"Baix Ebre";153;42
+431554;"Tortosa";9;"Baix Ebre";158;42
 252234;"Torà";32;"Segarra";6;0
 172018;"Toses";31;"Ripollès";0;0
 172023;"Tossa de Mar";34;"Selva";8;2
@@ -850,7 +850,7 @@
 252213;"Tírvia";26;"Pallars Sobirà";0;0
 82900;"Ullastrell";40;"Vallès Occidental";10;19
 172057;"Ullastret";10;"Baix Empordà";0;1
-431567;"Ulldecona";22;"Montsià";7;2
+431567;"Ulldecona";22;"Montsià";8;2
 431573;"Ulldemolins";29;"Priorat";1;0
 172044;"Ullà";10;"Baix Empordà";4;1
 172039;"Ultramort";10;"Baix Empordà";0;0
@@ -879,7 +879,7 @@
 431628;"Vandellòs i l'Hospitalet de l'Infant";8;"Baix Camp";11;7
 259097;"Vansa i Fórnols, la";4;"Alt Urgell";0;0
 82975;"Veciana";6;"Anoia";1;0
-431634;"Vendrell, el";12;"Baix Penedès";57;58
+431634;"Vendrell, el";12;"Baix Penedès";55;64
 172109;"Ventalló";2;"Alt Empordà";5;0
 252424;"Verdú";38;"Urgell";5;2
 172116;"Verges";10;"Baix Empordà";4;1
@@ -891,19 +891,19 @@
 431704;"Vila-rodona";1;"Alt Camp";3;2
 172305;"Vila-sacra";2;"Alt Empordà";3;1
 252521;"Vila-sana";27;"Pla d'Urgell";4;0
-431711;"Vila-seca";36;"Tarragonès";16;8
-431652;"Vilabella";1;"Alt Camp";4;3
+431711;"Vila-seca";36;"Tarragonès";16;16
+431652;"Vilabella";1;"Alt Camp";3;4
 172142;"Vilabertran";2;"Alt Empordà";1;0
 172155;"Vilablareix";20;"Gironès";11;11
 82994;"Vilada";14;"Berguedà";0;0
 172174;"Viladamat";2;"Alt Empordà";0;0
 172168;"Viladasens";20;"Gironès";0;0
 83015;"Viladecans";11;"Baix Llobregat";384;409
-83008;"Viladecavalls";40;"Vallès Occidental";36;28
+83008;"Viladecavalls";40;"Vallès Occidental";36;29
 172180;"Vilademuls";28;"Pla de l'Estany";3;0
 172207;"Viladrau";24;"Osona";3;0
 172214;"Vilafant";2;"Alt Empordà";24;14
-83054;"Vilafranca del Penedès";3;"Alt Penedès";129;67
+83054;"Vilafranca del Penedès";3;"Alt Penedès";130;67
 252445;"Vilagrassa";38;"Urgell";1;4
 172235;"Vilajuïga";2;"Alt Empordà";4;3
 83067;"Vilalba Sasserra";41;"Vallès Oriental";5;24
@@ -943,7 +943,7 @@
 431779;"Vinebre";30;"Ribera d'Ebre";2;0
 431785;"Vinyols i els Arcs";8;"Baix Camp";4;1
 83089;"Viver i Serrateix";14;"Berguedà";0;0
-430521;"Xerta";9;"Baix Ebre";5;1
+430521;"Xerta";9;"Baix Ebre";6;1
 250024;"Àger";23;"Noguera";10;34
 81430;"Òdena";6;"Anoia";31;18
 81537;"Òrrius";21;"Maresme";0;0
