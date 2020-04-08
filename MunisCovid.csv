@@ -89,7 +89,7 @@
 250411;"Barbens";27;"Pla d'Urgell";7;2
 430213;"Barberà de la Conca";16;"Conca de Barberà";0;0
 82520;"Barberà del Vallès";40;"Vallès Occidental";154;134
-80193;"Barcelona";13;"Barcelonès";8961;6873
+80193;"Barcelona";13;"Barcelonès";8961;6874
 250426;"Baronia de Rialb, la";23;"Noguera";0;1
 250447;"Bassella";4;"Alt Urgell";1;1
 430228;"Batea";37;"Terra Alta";5;1
@@ -511,7 +511,7 @@
 81542;"Pacs del Penedès";3;"Alt Penedès";3;2
 81555;"Palafolls";21;"Maresme";11;7
 171175;"Palafrugell";10;"Baix Empordà";182;82
-171181;"Palamós";10;"Baix Empordà";144;46
+171181;"Palamós";10;"Baix Empordà";145;46
 251581;"Palau d'Anglesola, el";27;"Pla d'Urgell";6;3
 171194;"Palau de Santa Eulàlia";2;"Alt Empordà";0;0
 171215;"Palau-sator";10;"Baix Empordà";0;2
@@ -649,7 +649,7 @@
 171557;"Salt";20;"Gironès";128;101
 251902;"Salàs de Pallars";25;"Pallars Jussà";0;2
 251919;"Sanaüja";32;"Segarra";1;0
-81944;"Sant Adrià de Besòs";13;"Barcelonès";186;156
+81944;"Sant Adrià de Besòs";13;"Barcelonès";186;155
 81957;"Sant Agustí de Lluçanès";24;"Osona";0;0
 171576;"Sant Andreu Salou";20;"Gironès";1;0
 81976;"Sant Andreu de Llavaneres";21;"Maresme";48;27
